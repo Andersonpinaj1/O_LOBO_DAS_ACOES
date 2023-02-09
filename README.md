@@ -13,7 +13,7 @@ O futuro e Show.
 
 ### **OBJETIVO** <img width="30px" src="https://github.com/Andersonpinaj1/O_LOBO_DAS_ACOES/blob/main/money1o.gif" /> 
 ***
-O objetivo desse projeto é utilizar a inteligência artificial no Python para obter uma carteira de ações inteligente!
+O projeto "O Lobo das Ações" é um software desenvolvido em Python. Ele tem como objetivo ajudar os investidores a tomar decisões informadas sobre ações de empresas, fornecendo informações financeiras e análises de mercado. O software utiliza algoritmos de inteligência artificial para analisar dados históricos e prever tendências futuras. Além disso, ele fornece gráficos e visualizações fáceis de entender para ajudar na interpretação dos dados. Este projeto é uma ótima opção para aqueles que procuram aumentar sua compreensão do mercado de ações e tomar decisões de investimento informadas.
 
 <p align= "center">
 <img src="https://github.com/Andersonpinaj1/O_LOBO_DAS_ACOES/blob/main/jogando%20money.gif" min-width="500px" max-width="400px" width="400px" >
