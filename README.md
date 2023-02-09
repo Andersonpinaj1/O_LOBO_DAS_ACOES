@@ -22,7 +22,7 @@ O projeto "O Lobo das Ações" é um software desenvolvido em Python. Ele tem co
  
  ### **SOBRE O LOBO DAS AÇÕES** <img width="30px" src="https://github.com/Andersonpinaj1/O_LOBO_DAS_ACOES/blob/main/money1o.gif" />  
 ***
-Vamos então utilizar a inteligência artificial na bolsa de valores para que possamos obter cotações de ações com o Python.
+"O LOBO DAS AÇÕES" é um projeto desenvolvido na linguagem de programação Python. A aplicação utiliza diversas bibliotecas do Python, como Pandas e Matplotlib, para coletar e manipular dados financeiros e visualizar as informações de forma clara e intuitiva. Além disso, também há integração com a API do site Yahoo Finance para a obtenção de dados atualizados sobre as ações.
 
 
 <p align= "center">
