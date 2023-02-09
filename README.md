@@ -46,10 +46,9 @@ O projeto foi feito em 7 partes:
 ***
 criamos uma inteligencia artificial que no primeiro trimestrez comseguiu aumentar os lucro na minha carteira de 4,6% no mesmo periodo em que a IBOV caiu 3%.
 
-Mas não acaba por aqui! Ainda tem muitas coisas para fazer nesse projeto, como:
+Trabalhos futuros:
 
-- Testes serem feitos futuramente assim ira demostra o verdadeiro rendimento da carteira em outros trimestrez
-- Melhora da IA
+Embora o projeto já seja uma solução completa e funcional, existem ainda algumas melhorias que podem ser implementadas no futuro. Uma delas é a integração com mais fontes de dados financeiros, para obter uma análise ainda mais precisa e abrangente. Outra possibilidade é a inclusão de novos indicadores técnicos e algoritmos de negociação, para aumentar a eficiência e rentabilidade do robô. Além disso, também há a possibilidade de expandir a aplicação para outros mercados financeiros, como forex ou commodities. Em suma, o projeto "O LOBO DAS AÇÕES" tem grande potencial para evoluir e se tornar uma referência em negociação automatizada de ações.
 
 <p align= "center">
 <img src="https://github.com/Andersonpinaj1/O_LOBO_DAS_ACOES/blob/main/dance.gif" min-width="400px" max-width="300px" width="300px" >
