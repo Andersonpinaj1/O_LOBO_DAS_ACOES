@@ -1,12 +1,12 @@
 # O LOBO DAS AÇÕES
-Projeto de Inteligencia artificial nas Ações
+Projeto de InteligÊncia Artificial nas ações.
 
 
 <p align= "center">
 <img src="https://github.com/Andersonpinaj1/O_LOBO_DAS_ACOES/blob/main/mestre.gif" min-width="300px" max-width="200px" width="750px" > 
 </p>
 <p align= "center">
-O futuro e Show.
+O futuro é Show!
 </p>
 
  
@@ -31,7 +31,7 @@ O projeto "O Lobo das Ações" é um software desenvolvido em Python. Ele tem co
 
  ### **SOBRE O PROJETO** <img width="30px" src="https://github.com/Andersonpinaj1/O_LOBO_DAS_ACOES/blob/main/money1o.gif" />  
 ***
-O projeto foi feito em 7 partes: 
+O projeto foi feito em 7 etapas: 
 
 - Tratamento de Dados:
 - Análise Exploratória:
@@ -44,7 +44,7 @@ O projeto foi feito em 7 partes:
 
 ### **CONCLUSÕES** <img width="30px" src="https://github.com/Andersonpinaj1/O_LOBO_DAS_ACOES/blob/main/money1o.gif" /> 
 ***
-criamos uma inteligencia artificial que no primeiro trimestrez comseguiu aumentar os lucro na minha carteira de 4,6% no mesmo periodo em que a IBOV caiu 3%.
+Criamos uma inteligência artificial que, no primeiro trimestre, conseguiu aumentar os lucros na minha carteira de 4,6% no mesmo período em que a IBOV caiu 3%.
 
 Trabalhos futuros:
 
